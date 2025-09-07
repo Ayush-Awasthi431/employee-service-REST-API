@@ -50,3 +50,12 @@ Unit tests for controller endpoints using MockMvc are located in 	src/test/java/
 Run tests:
 
 	./gradlew test
+
+## Example Output
+
+### GET ALL
+![Postman Example](./GetAllSS.png)
+
+### POST 
+
+![Postman Example](./PostSS.png)
